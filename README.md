@@ -11,7 +11,7 @@ Deep learning algorithms have made significant advances in a wide range of clini
 <strong> Segmentation Sample Dataset</strong>
 
 ### Python code and Implementation
-<p align="justify">This GitHub repository also includes all Python codes and implementations tight to the current tutorial/hackathon.</p>
+<p align="justify">This GitHub repository also includes all Python codes and implementations tied to the current tutorial/hackathon.</p>
 
 ### Organizers, Instructors, and Speakers  
 + <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Nickolas Littlefield</a>, MS (PhD Student), University of Pittsburgh.</p>
