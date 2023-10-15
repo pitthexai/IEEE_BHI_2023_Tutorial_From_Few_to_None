@@ -8,7 +8,10 @@ Deep learning algorithms have made significant advances in a wide range of clini
 
 ### Dataset
 <p align="justify">We will be using knee radiographs (X-rays) that are publicly available through the <a href="https://nda.nih.gov/oai" target="_blank">Osteoarthritis Initiative (OAI)</a>. You may want to create an account there and download knee/hip X-ray images. However, in this GitHub repository, we provide you with a sample subset of the images with manual  segmentation masks. During the tutorial, we will be mainly using this sample data.</p>
-<strong> Segmentation Sample Dataset</strong>
+
+<strong> <a href="https://github.com/pitthexai/IEEE_BHI_2023_Tutorial_From_Few_to_None/raw/bcce5fd52b349659fb03fd065f9037e70acc83a9/SampleDataset/BHI_Segmentation.zip">Segmentation Sample Dataset</a></strong>
+
+<strong> <a href="https://drive.google.com/file/d/1Tb3uhEfukPaFgc6KiKOpTUrpQAS1YkN8/view?usp=sharing">Few-Shot Model Checkpoints</a> </strong>
 
 ### Python code and Implementation
 <p align="justify">This GitHub repository also includes all Python codes and implementations tied to the current tutorial/hackathon.</p>
